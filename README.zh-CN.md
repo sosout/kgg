@@ -1,6 +1,6 @@
 # kgg
 
-A web framework's framework for Node.js.
+Node.js 编写的 web 框架的框架。
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
@@ -22,26 +22,24 @@ A web framework's framework for Node.js.
 [download-image]: https://img.shields.io/npm/dm/kgg.svg?style=flat-square
 [download-url]: https://npmjs.org/package/kgg
 
-Node 框架
-
-## Installation
+## 安装
 
 ```bash
 $ npm install kgg --save
 ```
 
-Kgg is supported in node v4+.
+Egg 支持 node v4 以上的版本。
 
-## Features
+## 特性
 
-## Docs & Community
+## 快速开始
 
-## Getting started
+## 示例
 
-## How to Contributing
+## 贡献代码
 
-## Team
+## 团队
 
-## License
+## 开源协议
 
 [MIT](LICENSE)
